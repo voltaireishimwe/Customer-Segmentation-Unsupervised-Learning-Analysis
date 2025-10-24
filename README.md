@@ -115,7 +115,8 @@ The notebook structure suggests potential extensions including:
 - Time-series analysis of customer behavior
 - Integration with recommendation systems
 - Deployment of clustering models for real-time segmentation
-  
-**⭐ Star us on GitHub — help improve cybersecurity for everyone!**
+
 ## Requirements
 All required libraries are imported at the beginning, with warnings suppressed for cleaner output. The code is structured for reproducibility and can be easily adapted for similar customer segmentation tasks.
+
+**⭐ Star us on GitHub — help improve cybersecurity for everyone!**
