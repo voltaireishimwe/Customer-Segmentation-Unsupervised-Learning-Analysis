@@ -1,7 +1,7 @@
 # CUSTOMER SEGMENTATION & UNSUPERVISED LEARNING ANALYSIS
 
 ## Overview
-Repository notebook contains a comprehensive analysis of customer data using unsupervised learning techniques, specifically focusing on customer segmentation through clustering algorithms. The project demonstrates a complete data science workflow from data loading and exploration to feature engineering and clustering implementation.
+This repository contains a comprehensive analysis of customer data using unsupervised learning techniques, specifically focusing on customer segmentation through clustering algorithms. The project demonstrates a complete data science workflow from data loading and exploration to feature engineering and clustering implementation.
 
 ## Project Structure
 The notebook is organized into two main parts:
