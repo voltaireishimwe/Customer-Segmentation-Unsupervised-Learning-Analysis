@@ -1,0 +1,501 @@
+Customer_ID,Age,Gender,Location,Frequency,Monetary Value,Recency,Categories,Brands,Website Visits,Email Opens
+10001,56,Male,Houston,7,837.39,4,"Books & Media, Clothing & Apparel, Jewelry & Watches",Bose,3,1
+10002,69,Female,Houston,2,1967.34,17,"Home Goods, Electronics","IKEA, L'Oréal, Zara",6,4
+10003,46,Male,Phoenix,8,730.49,19,"Electronics, Jewelry & Watches, Gourmet Food",Adidas,1,5
+10004,32,Female,San Diego,5,182.28,7,Gourmet Food,"Nike, Zara",2,2
+10005,60,Female,Phoenix,5,817.06,3,"Home Goods, Electronics, Clothing & Apparel",Adidas,2,4
+10006,25,Male,San Diego,7,180.76,54,Electronics,"Zara, Bose, Apple",1,1
+10007,38,Male,San Jose,9,1118.45,20,"Gourmet Food, Books & Media, Beauty & Skincare","Nike, Bose, Apple",6,3
+10008,56,Male,New York,7,2097.16,1,"Sports & Outdoors, Beauty & Skincare, Clothing & Apparel",Samsung,3,6
+10009,36,Male,San Jose,5,408.96,48,"Jewelry & Watches, Sports & Outdoors, Clothing & Apparel","Sony, IKEA, Bose",1,4
+10010,40,Other,Dallas,3,2800.16,118,"Jewelry & Watches, Beauty & Skincare, Clothing & Apparel","IKEA, Samsung",3,2
+10011,28,Male,Philadelphia,4,1766.67,27,Jewelry & Watches,Nike,7,6
+10012,28,Female,Chicago,5,2363.19,21,"Beauty & Skincare, Home Goods, Clothing & Apparel","IKEA, Adidas, Zara",3,5
+10013,41,Male,San Diego,6,1047.58,63,"Electronics, Beauty & Skincare","Zara, Bose, Apple",2,4
+10014,70,Female,Dallas,7,406.82,91,"Electronics, Home Goods, Books & Media","Gucci, Apple",1,7
+10015,53,Female,Philadelphia,11,1681.16,42,"Electronics, Gourmet Food","L'Oréal, Zara, IKEA",10,5
+10016,57,Female,San Antonio,3,546.16,17,Beauty & Skincare,"Bose, Zara, Apple",1,4
+10017,41,Female,New York,6,989.2,26,"Sports & Outdoors, Clothing & Apparel","Adidas, Nike",11,3
+10018,20,Male,Phoenix,6,784.86,36,Clothing & Apparel,Sony,15,2
+10019,39,Male,Phoenix,5,2213.53,6,"Beauty & Skincare, Sports & Outdoors",Apple,2,3
+10020,70,Male,San Jose,8,1614.61,17,"Clothing & Apparel, Gourmet Food, Beauty & Skincare","Nike, L'Oréal",3,3
+10021,19,Female,Houston,12,843.98,53,"Gourmet Food, Sports & Outdoors, Home Goods","IKEA, Apple, Zara",1,3
+10022,41,Female,Philadelphia,7,188.92,31,"Clothing & Apparel, Books & Media","Zara, L'Oréal",1,3
+10023,61,Female,San Antonio,6,541.53,15,"Beauty & Skincare, Sports & Outdoors, Electronics","Bose, Sony, Adidas",1,0
+10024,47,Female,Dallas,2,1581.24,32,"Clothing & Apparel, Sports & Outdoors","Gucci, Bose, Apple",6,6
+10025,55,Male,New York,5,1126.28,3,"Jewelry & Watches, Sports & Outdoors",Samsung,3,3
+10026,19,Male,Philadelphia,5,270.43,15,Electronics,"Samsung, Adidas, Sony",2,4
+10027,38,Male,San Antonio,9,212.15,47,"Clothing & Apparel, Beauty & Skincare",Samsung,3,0
+10028,50,Female,Chicago,4,1052.57,7,"Jewelry & Watches, Home Goods","Adidas, Apple, Sony",1,1
+10029,29,Male,San Diego,9,386.43,6,"Sports & Outdoors, Clothing & Apparel, Beauty & Skincare",Samsung,2,2
+10030,39,Male,Phoenix,8,417.36,90,Home Goods,"Sony, Zara, Adidas",3,1
+10031,61,Male,Dallas,4,1541.75,7,Gourmet Food,Bose,1,4
+10032,42,Male,Phoenix,6,2355.19,9,"Electronics, Clothing & Apparel, Gourmet Food","Bose, L'Oréal, Apple",1,2
+10033,66,Female,Dallas,4,493.75,104,"Jewelry & Watches, Electronics, Gourmet Food",Nike,2,4
+10034,44,Female,San Jose,7,868.51,39,Jewelry & Watches,"IKEA, Nike, Sony",2,4
+10035,59,Female,Houston,5,848.26,36,Jewelry & Watches,"Samsung, L'Oréal",6,2
+10036,45,Male,Dallas,7,789.36,57,"Sports & Outdoors, Clothing & Apparel",Sony,5,5
+10037,33,Female,Phoenix,8,929.89,3,"Books & Media, Sports & Outdoors, Clothing & Apparel","L'Oréal, Samsung, Apple",5,5
+10038,32,Female,San Jose,4,1648.77,36,"Home Goods, Electronics, Beauty & Skincare",Zara,2,1
+10039,64,Female,Dallas,4,525.02,21,Sports & Outdoors,"Bose, Samsung, Gucci",6,5
+10040,68,Female,Chicago,6,265.7,53,Beauty & Skincare,"IKEA, Zara",1,2
+10041,61,Male,Houston,2,3479.32,21,Clothing & Apparel,IKEA,3,1
+10042,72,Male,Dallas,7,2151.93,29,"Beauty & Skincare, Jewelry & Watches, Clothing & Apparel","Zara, Gucci, L'Oréal",1,5
+10043,69,Female,San Jose,5,372.29,19,Gourmet Food,"L'Oréal, IKEA",4,6
+10044,74,Female,Philadelphia,4,1003.34,19,Clothing & Apparel,"Gucci, Adidas",5,1
+10045,20,Male,Los Angeles,6,2020.59,43,"Electronics, Gourmet Food","Sony, Nike",1,5
+10046,54,Female,San Antonio,8,1638.97,29,Sports & Outdoors,"Nike, Apple",3,3
+10047,68,Female,Los Angeles,8,1302.7,30,"Beauty & Skincare, Clothing & Apparel","Zara, IKEA",4,0
+10048,24,Female,Los Angeles,6,785.57,17,"Sports & Outdoors, Clothing & Apparel",Samsung,3,1
+10049,38,Female,New York,10,3584.69,22,"Gourmet Food, Clothing & Apparel","Sony, Zara, Bose",4,5
+10050,26,Male,Chicago,8,1074.14,41,Electronics,"Apple, Adidas",8,2
+10051,56,Male,Philadelphia,3,596.22,52,Clothing & Apparel,Bose,2,3
+10052,35,Female,San Diego,11,1807.04,35,"Beauty & Skincare, Books & Media, Clothing & Apparel","IKEA, Nike, Zara",3,3
+10053,21,Female,Dallas,5,972.07,77,"Jewelry & Watches, Books & Media","Zara, Adidas",6,4
+10054,42,Male,San Antonio,8,1190.85,51,Sports & Outdoors,"L'Oréal, Gucci, IKEA",2,3
+10055,31,Male,Houston,6,1059.03,24,"Gourmet Food, Beauty & Skincare, Jewelry & Watches","Sony, Gucci",2,4
+10056,67,Male,Philadelphia,8,1339.44,33,"Sports & Outdoors, Clothing & Apparel, Beauty & Skincare",IKEA,2,3
+10057,26,Male,Phoenix,9,411.5,78,"Electronics, Gourmet Food",Nike,1,7
+10058,43,Female,San Diego,6,281.94,28,Clothing & Apparel,"Sony, Bose",4,3
+10059,70,Female,New York,5,2835.27,52,"Home Goods, Jewelry & Watches","Sony, Nike, Apple",6,3
+10060,19,Male,New York,7,1099.11,35,"Home Goods, Clothing & Apparel",Sony,1,1
+10061,37,Female,Philadelphia,11,1667.8,24,Sports & Outdoors,Samsung,7,3
+10062,45,Male,San Jose,5,220.25,8,"Clothing & Apparel, Beauty & Skincare",Apple,2,2
+10063,64,Male,Los Angeles,5,2113.14,16,"Gourmet Food, Electronics","Nike, Adidas, Sony",2,5
+10064,24,Male,Phoenix,4,593.12,103,Gourmet Food,"Adidas, Nike, IKEA",5,6
+10065,61,Female,New York,6,472.3,32,"Sports & Outdoors, Clothing & Apparel, Beauty & Skincare","Apple, IKEA, Gucci",1,4
+10066,25,Male,San Antonio,3,855.67,24,"Gourmet Food, Electronics, Home Goods","Apple, Zara",4,4
+10067,64,Female,New York,9,411.66,81,"Home Goods, Jewelry & Watches, Gourmet Food","Samsung, L'Oréal, IKEA",7,2
+10068,52,Male,Houston,7,898.93,26,Beauty & Skincare,"Samsung, Apple, Adidas",8,3
+10069,31,Male,Dallas,7,807.15,22,Home Goods,"Apple, L'Oréal",4,5
+10070,34,Female,New York,5,2102.54,42,"Electronics, Home Goods","Apple, L'Oréal",10,2
+10071,53,Male,Houston,7,3020.75,37,Books & Media,Sony,1,3
+10072,67,Male,Philadelphia,4,2944.8,6,"Clothing & Apparel, Gourmet Food, Home Goods",Adidas,4,3
+10073,57,Female,Philadelphia,5,147.08,19,Sports & Outdoors,"Gucci, L'Oréal, Samsung",1,3
+10074,21,Female,San Diego,5,426.01,19,"Home Goods, Sports & Outdoors, Jewelry & Watches","L'Oréal, Nike, Apple",4,4
+10075,19,Female,New York,6,145.86,14,Jewelry & Watches,IKEA,1,3
+10076,23,Female,San Antonio,3,346.45,21,"Home Goods, Sports & Outdoors","Bose, L'Oréal",1,0
+10077,71,Female,New York,4,535.38,15,"Electronics, Gourmet Food, Home Goods",Gucci,1,3
+10078,59,Male,San Antonio,8,1250.17,6,Gourmet Food,"Samsung, Nike",1,2
+10079,21,Female,Chicago,9,593.86,15,"Gourmet Food, Jewelry & Watches, Clothing & Apparel","Adidas, IKEA, L'Oréal",6,6
+10080,71,Female,San Diego,6,607.24,2,"Jewelry & Watches, Clothing & Apparel, Gourmet Food",Gucci,6,1
+10081,46,Male,Chicago,2,1041.06,25,"Sports & Outdoors, Beauty & Skincare, Jewelry & Watches","L'Oréal, Adidas",5,2
+10082,35,Female,New York,8,229.32,57,"Gourmet Food, Electronics","Adidas, L'Oréal, Sony",7,2
+10083,43,Male,San Diego,8,460.22,38,"Beauty & Skincare, Books & Media, Home Goods","Bose, Zara, Nike",9,1
+10084,61,Female,Chicago,4,601.69,13,"Books & Media, Jewelry & Watches, Sports & Outdoors","L'Oréal, Zara",1,4
+10085,51,Female,Los Angeles,8,765.6,2,"Home Goods, Sports & Outdoors, Gourmet Food","Apple, Bose",3,5
+10086,27,Male,New York,3,957.33,6,Electronics,Samsung,4,2
+10087,53,Male,Chicago,5,2990.23,23,"Beauty & Skincare, Gourmet Food","Nike, Apple, Gucci",5,4
+10088,31,Male,Los Angeles,6,1861.72,6,Home Goods,"Zara, Adidas, IKEA",8,4
+10089,48,Male,Los Angeles,7,486.45,23,"Sports & Outdoors, Beauty & Skincare","Apple, L'Oréal, Sony",1,3
+10090,65,Male,Philadelphia,4,730.35,7,"Gourmet Food, Beauty & Skincare, Home Goods",Gucci,14,4
+10091,32,Female,New York,9,691.62,56,Jewelry & Watches,"Sony, IKEA",2,2
+10092,25,Female,Los Angeles,5,596.61,15,"Jewelry & Watches, Sports & Outdoors, Beauty & Skincare","Zara, Samsung, L'Oréal",3,2
+10093,31,Male,Philadelphia,8,1119.46,8,"Beauty & Skincare, Sports & Outdoors",Zara,11,3
+10094,40,Male,Chicago,3,203.32,50,Sports & Outdoors,Gucci,18,3
+10095,74,Other,Houston,6,1821.03,12,"Books & Media, Gourmet Food","IKEA, Samsung",1,2
+10096,57,Female,New York,8,3489.19,3,Home Goods,"Apple, Nike, Zara",1,2
+10097,38,Female,San Diego,6,725.39,25,Gourmet Food,"Gucci, Nike, Bose",4,6
+10098,33,Male,San Antonio,4,714.15,26,"Home Goods, Clothing & Apparel",Zara,13,2
+10099,62,Female,San Antonio,8,1020.68,37,Clothing & Apparel,"Gucci, Sony, Samsung",3,4
+10100,35,Male,Chicago,5,2034.68,8,"Home Goods, Clothing & Apparel","L'Oréal, Bose, Samsung",7,2
+10101,64,Male,San Jose,5,694.47,17,"Books & Media, Electronics","Gucci, IKEA",1,4
+10102,70,Female,San Jose,4,1900.25,9,Home Goods,"Gucci, Nike, Samsung",10,3
+10103,41,Male,Chicago,9,1330.59,2,Home Goods,"Samsung, Adidas",3,0
+10104,43,Male,Los Angeles,6,5954.33,62,"Jewelry & Watches, Clothing & Apparel, Gourmet Food","Samsung, Sony, Gucci",2,4
+10105,42,Female,New York,4,692.05,39,Gourmet Food,"L'Oréal, Sony, Adidas",1,2
+10106,62,Male,San Antonio,6,185.26,10,Electronics,"Sony, Apple",5,2
+10107,58,Male,San Antonio,4,286.07,27,"Gourmet Food, Electronics","Apple, Samsung, Sony",1,3
+10108,46,Male,Los Angeles,5,908.8,6,"Clothing & Apparel, Home Goods, Beauty & Skincare","Apple, Nike, Bose",2,6
+10109,32,Female,San Antonio,3,2048.56,66,"Gourmet Food, Beauty & Skincare","Bose, Gucci",2,5
+10110,62,Male,San Diego,5,534.1,3,"Beauty & Skincare, Clothing & Apparel, Electronics",Gucci,6,5
+10111,18,Female,New York,4,748.33,1,"Gourmet Food, Clothing & Apparel",L'Oréal,2,0
+10112,42,Female,Dallas,8,1556.91,20,"Gourmet Food, Sports & Outdoors",Gucci,1,4
+10113,24,Male,San Antonio,5,415.88,26,"Home Goods, Clothing & Apparel",Samsung,1,4
+10114,26,Female,Chicago,6,552.01,25,"Clothing & Apparel, Jewelry & Watches, Gourmet Food","Bose, Samsung",1,3
+10115,41,Female,San Diego,5,353.68,1,"Electronics, Sports & Outdoors","Bose, Adidas",5,4
+10116,18,Male,San Antonio,6,2310.38,11,Sports & Outdoors,"Sony, Zara, Nike",1,2
+10117,61,Male,San Diego,5,3089.99,20,"Books & Media, Beauty & Skincare","Zara, L'Oréal, Nike",7,2
+10118,25,Male,Philadelphia,7,254.44,7,"Gourmet Food, Jewelry & Watches, Books & Media",Samsung,3,1
+10119,41,Male,Dallas,10,803.39,61,Beauty & Skincare,L'Oréal,3,5
+10120,28,Female,Phoenix,4,2774.96,2,Sports & Outdoors,"IKEA, Nike",11,2
+10121,68,Female,Chicago,9,1238.36,20,"Gourmet Food, Home Goods",Gucci,1,0
+10122,34,Female,Chicago,6,608.62,35,"Gourmet Food, Home Goods","Samsung, Adidas, Bose",9,3
+10123,25,Male,New York,2,261.3,9,"Books & Media, Sports & Outdoors",Adidas,2,3
+10124,52,Male,San Diego,4,2264.12,29,Clothing & Apparel,"Nike, Sony, L'Oréal",2,4
+10125,52,Male,Los Angeles,6,1201.11,53,"Books & Media, Jewelry & Watches",Gucci,6,2
+10126,50,Male,Chicago,5,277.05,6,"Beauty & Skincare, Jewelry & Watches","Samsung, IKEA, Zara",3,4
+10127,22,Female,San Diego,7,2332.04,74,Beauty & Skincare,"Nike, Samsung",1,4
+10128,59,Male,San Diego,6,250.2,24,"Sports & Outdoors, Jewelry & Watches, Beauty & Skincare","Gucci, Samsung, Apple",1,0
+10129,56,Female,Houston,6,754.61,10,"Electronics, Jewelry & Watches, Books & Media",L'Oréal,9,1
+10130,58,Male,Houston,5,728.43,16,"Electronics, Books & Media","Sony, IKEA, Adidas",3,4
+10131,45,Female,Phoenix,10,3285.55,11,"Home Goods, Gourmet Food",IKEA,1,1
+10132,24,Male,Philadelphia,7,730.51,38,"Gourmet Food, Jewelry & Watches, Clothing & Apparel","Gucci, Samsung, Adidas",4,3
+10133,26,Female,Phoenix,8,728.42,47,"Jewelry & Watches, Sports & Outdoors","Apple, Gucci",1,2
+10134,25,Female,San Antonio,4,302.51,53,"Sports & Outdoors, Clothing & Apparel, Books & Media","Apple, Nike",6,3
+10135,29,Female,Los Angeles,3,539.3,127,"Beauty & Skincare, Jewelry & Watches, Home Goods",L'Oréal,3,0
+10136,51,Male,San Antonio,4,468.13,47,"Jewelry & Watches, Home Goods","Gucci, Adidas, Bose",1,0
+10137,50,Male,San Jose,3,488.04,27,"Jewelry & Watches, Gourmet Food, Clothing & Apparel","L'Oréal, Sony",5,4
+10138,65,Female,San Antonio,8,904.71,12,"Clothing & Apparel, Gourmet Food, Sports & Outdoors","Nike, Sony, Samsung",2,1
+10139,72,Female,New York,3,128.41,23,"Electronics, Home Goods","Nike, IKEA, Zara",7,2
+10140,40,Male,San Antonio,6,268.92,1,Sports & Outdoors,"IKEA, Adidas, Nike",2,1
+10141,41,Female,Phoenix,6,823.67,40,"Electronics, Clothing & Apparel, Gourmet Food","Samsung, Nike, Zara",3,5
+10142,54,Male,Chicago,8,991.87,17,"Beauty & Skincare, Books & Media, Gourmet Food","Zara, Nike",1,1
+10143,52,Male,Chicago,6,746.83,1,Gourmet Food,"Adidas, Bose",2,3
+10144,61,Female,Houston,7,871.27,1,"Home Goods, Gourmet Food, Jewelry & Watches","IKEA, Samsung",4,2
+10145,57,Female,Los Angeles,8,648.91,14,"Electronics, Sports & Outdoors","Sony, Samsung",2,3
+10146,39,Other,Los Angeles,4,886.94,26,Electronics,"Nike, L'Oréal, Bose",1,1
+10147,44,Female,New York,7,1273.98,18,"Beauty & Skincare, Gourmet Food",Bose,1,5
+10148,52,Female,Phoenix,9,1266.85,28,"Home Goods, Clothing & Apparel, Electronics",Sony,3,1
+10149,18,Male,Houston,4,518.75,19,"Books & Media, Home Goods","Adidas, Sony, IKEA",1,3
+10150,52,Male,San Jose,7,1871.81,32,"Home Goods, Sports & Outdoors","IKEA, L'Oréal",4,4
+10151,54,Other,Los Angeles,6,1020.73,7,"Jewelry & Watches, Gourmet Food",Apple,2,4
+10152,64,Male,Chicago,4,2412.35,3,Home Goods,Sony,5,1
+10153,31,Female,San Antonio,5,2832.41,27,"Gourmet Food, Books & Media",Bose,10,4
+10154,20,Female,San Antonio,7,283.84,19,Electronics,"Apple, Nike, L'Oréal",22,1
+10155,18,Male,Houston,7,452.76,1,"Gourmet Food, Beauty & Skincare, Books & Media","Apple, L'Oréal",8,2
+10156,22,Male,Phoenix,8,1725.76,14,"Clothing & Apparel, Beauty & Skincare","Nike, Samsung, Zara",2,3
+10157,43,Female,Phoenix,7,237.62,3,Home Goods,Zara,2,5
+10158,72,Male,Philadelphia,6,2803.79,22,Sports & Outdoors,"Adidas, Nike",9,3
+10159,31,Female,Dallas,3,683.67,15,Clothing & Apparel,"Sony, L'Oréal, Bose",1,5
+10160,56,Male,Los Angeles,6,1425.98,28,"Gourmet Food, Electronics","Bose, Adidas, Zara",1,1
+10161,44,Female,Phoenix,10,820.14,49,"Sports & Outdoors, Jewelry & Watches, Gourmet Food","Sony, L'Oréal, Gucci",1,2
+10162,26,Female,Chicago,4,295.5,10,"Sports & Outdoors, Electronics, Books & Media",Zara,1,2
+10163,32,Female,Houston,10,2094.4,98,Books & Media,Nike,14,4
+10164,32,Female,San Jose,3,8128.76,23,Beauty & Skincare,Bose,1,1
+10165,43,Female,Philadelphia,2,596.2,28,Gourmet Food,"L'Oréal, Nike",7,2
+10166,59,Male,San Diego,5,695.55,34,"Books & Media, Beauty & Skincare, Clothing & Apparel",Adidas,2,1
+10167,30,Male,New York,4,108.13,32,"Beauty & Skincare, Electronics","Bose, Sony",7,2
+10168,68,Male,San Jose,5,2653.9,21,"Beauty & Skincare, Jewelry & Watches",Zara,3,4
+10169,49,Male,San Diego,6,1866.83,16,"Jewelry & Watches, Clothing & Apparel","Zara, Gucci, Bose",9,1
+10170,56,Female,San Antonio,2,224.95,1,"Sports & Outdoors, Books & Media, Jewelry & Watches","Sony, IKEA",3,8
+10171,66,Female,New York,4,172.55,1,"Beauty & Skincare, Electronics, Clothing & Apparel","Adidas, Nike, Bose",3,6
+10172,69,Male,Los Angeles,6,189.27,13,"Clothing & Apparel, Sports & Outdoors, Books & Media","L'Oréal, Apple, Sony",3,4
+10173,49,Female,Chicago,4,1508.27,12,"Beauty & Skincare, Clothing & Apparel","Gucci, L'Oréal",4,4
+10174,21,Male,New York,13,1633.66,14,Clothing & Apparel,"Samsung, Gucci, IKEA",2,2
+10175,47,Female,Dallas,3,430.06,4,"Electronics, Jewelry & Watches, Books & Media",IKEA,27,3
+10176,54,Male,San Diego,4,1342.1,40,"Jewelry & Watches, Gourmet Food, Electronics",L'Oréal,7,5
+10177,40,Female,Los Angeles,5,1022.17,58,"Jewelry & Watches, Clothing & Apparel, Electronics",Samsung,3,3
+10178,56,Male,Dallas,10,671,83,Electronics,IKEA,10,3
+10179,62,Male,San Antonio,6,1956.17,20,Books & Media,"L'Oréal, Gucci, Nike",20,1
+10180,32,Other,Dallas,4,343.31,36,Sports & Outdoors,Sony,1,3
+10181,60,Female,Philadelphia,4,2254.35,58,"Books & Media, Electronics",Bose,2,3
+10182,46,Male,Philadelphia,5,502.59,16,"Sports & Outdoors, Gourmet Food",Nike,1,3
+10183,53,Male,Houston,5,3743.64,11,"Gourmet Food, Clothing & Apparel","Samsung, L'Oréal, Apple",1,3
+10184,30,Male,San Jose,8,402.76,82,"Sports & Outdoors, Home Goods, Gourmet Food","L'Oréal, Gucci",1,2
+10185,49,Male,San Jose,7,679.48,21,"Jewelry & Watches, Clothing & Apparel, Beauty & Skincare",Samsung,8,3
+10186,24,Male,Los Angeles,4,943.37,20,Clothing & Apparel,Sony,8,3
+10187,68,Female,San Antonio,7,938.65,5,"Electronics, Jewelry & Watches","Samsung, L'Oréal, Adidas",1,5
+10188,39,Male,Phoenix,7,1333.08,3,Home Goods,Zara,11,1
+10189,45,Male,Philadelphia,5,321.84,55,"Sports & Outdoors, Clothing & Apparel, Electronics","Samsung, IKEA",1,3
+10190,19,Male,Los Angeles,8,873.7,28,"Sports & Outdoors, Home Goods","Samsung, Apple, IKEA",3,5
+10191,59,Female,Phoenix,5,1005.35,11,"Clothing & Apparel, Electronics",Apple,1,2
+10192,62,Female,San Jose,8,590.16,6,"Electronics, Clothing & Apparel","Bose, IKEA, Nike",8,2
+10193,74,Male,Houston,4,1243.68,24,"Clothing & Apparel, Beauty & Skincare, Home Goods","Bose, Nike",3,2
+10194,70,Male,Dallas,5,306.58,26,Gourmet Food,L'Oréal,5,3
+10195,23,Female,Philadelphia,8,693.27,6,Electronics,"Bose, Gucci",3,1
+10196,45,Male,Los Angeles,9,492.77,57,"Books & Media, Clothing & Apparel, Sports & Outdoors","Nike, Gucci",1,2
+10197,45,Female,New York,3,694.95,2,Jewelry & Watches,"Zara, Gucci, Apple",2,1
+10198,61,Female,Phoenix,10,2864.68,13,"Jewelry & Watches, Beauty & Skincare","Bose, Nike, L'Oréal",3,2
+10199,61,Female,Dallas,7,2909.54,34,"Electronics, Jewelry & Watches",Bose,1,2
+10200,37,Female,Philadelphia,5,2487.21,9,"Beauty & Skincare, Home Goods","Apple, Gucci, L'Oréal",1,2
+10201,47,Male,San Jose,8,621.9,52,"Gourmet Food, Electronics, Home Goods",Adidas,1,3
+10202,28,Female,San Antonio,3,1860.65,40,"Beauty & Skincare, Electronics, Gourmet Food","Nike, Bose",6,2
+10203,72,Other,Phoenix,3,984.84,46,Home Goods,"Adidas, Samsung, Gucci",3,1
+10204,45,Other,San Jose,4,933.61,3,"Books & Media, Jewelry & Watches, Clothing & Apparel","Nike, Gucci",4,4
+10205,42,Male,Philadelphia,6,846.15,4,"Jewelry & Watches, Clothing & Apparel","L'Oréal, Samsung",4,3
+10206,56,Male,Phoenix,8,3675.04,10,"Jewelry & Watches, Beauty & Skincare, Electronics","Adidas, IKEA, Gucci",4,3
+10207,50,Female,Dallas,5,2684.52,21,"Sports & Outdoors, Jewelry & Watches, Electronics","L'Oréal, Nike, Gucci",1,1
+10208,18,Male,Philadelphia,5,1633.54,41,"Electronics, Home Goods","Gucci, Apple, Zara",4,7
+10209,74,Male,San Diego,6,785.52,54,Clothing & Apparel,Gucci,16,5
+10210,44,Female,Los Angeles,6,929.12,36,"Gourmet Food, Electronics, Home Goods",Nike,2,1
+10211,74,Male,Dallas,5,1376.14,79,"Beauty & Skincare, Books & Media","Sony, Bose",2,5
+10212,69,Male,Phoenix,6,593.06,40,Sports & Outdoors,"L'Oréal, IKEA",6,3
+10213,30,Male,San Antonio,7,1906.91,10,"Sports & Outdoors, Home Goods",L'Oréal,1,7
+10214,58,Male,San Jose,6,430.78,9,"Clothing & Apparel, Electronics, Gourmet Food","Sony, Adidas",9,2
+10215,20,Male,New York,8,1231.59,35,Books & Media,"L'Oréal, Bose, Samsung",2,2
+10216,56,Female,San Jose,9,144.14,6,"Sports & Outdoors, Gourmet Food, Clothing & Apparel",Sony,6,2
+10217,23,Male,Phoenix,5,579.46,2,"Home Goods, Electronics","L'Oréal, Apple, IKEA",4,3
+10218,25,Male,San Jose,6,4744.43,22,Books & Media,"Bose, Samsung",5,3
+10219,44,Female,Los Angeles,7,2062.22,51,"Sports & Outdoors, Home Goods, Books & Media","IKEA, L'Oréal, Adidas",1,2
+10220,26,Female,Philadelphia,10,3074.69,3,"Electronics, Beauty & Skincare, Gourmet Food","Bose, IKEA, Sony",6,2
+10221,54,Female,New York,7,527.81,47,Beauty & Skincare,"Gucci, Sony, Samsung",1,1
+10222,50,Male,Chicago,1,978.09,50,"Beauty & Skincare, Sports & Outdoors, Jewelry & Watches","Sony, Zara, Nike",2,4
+10223,68,Other,Phoenix,5,2510.35,19,Jewelry & Watches,Nike,1,8
+10224,59,Female,Houston,3,1493.77,1,"Jewelry & Watches, Gourmet Food","Adidas, Sony",1,5
+10225,61,Male,Chicago,7,1352.13,5,"Books & Media, Beauty & Skincare","Zara, Sony, IKEA",4,3
+10226,41,Female,San Jose,10,3317.78,36,"Home Goods, Electronics, Beauty & Skincare","Samsung, Nike, IKEA",2,4
+10227,32,Male,Phoenix,1,391.59,37,"Electronics, Sports & Outdoors","Bose, Nike",9,3
+10228,71,Male,San Diego,4,776.81,68,Books & Media,Samsung,2,3
+10229,49,Male,Houston,1,221.26,26,"Clothing & Apparel, Sports & Outdoors","IKEA, Zara, Samsung",3,5
+10230,49,Female,New York,9,374.84,3,"Home Goods, Gourmet Food","Samsung, IKEA, Sony",7,4
+10231,41,Female,San Antonio,3,2125.86,3,"Sports & Outdoors, Gourmet Food","L'Oréal, Gucci",1,3
+10232,58,Female,San Diego,5,432.12,38,Electronics,L'Oréal,1,1
+10233,69,Female,Chicago,5,1621.33,6,"Clothing & Apparel, Electronics","L'Oréal, Nike",3,3
+10234,66,Male,Philadelphia,6,3392.67,11,"Beauty & Skincare, Jewelry & Watches, Clothing & Apparel","L'Oréal, Gucci",7,6
+10235,66,Male,Los Angeles,5,780.73,20,"Gourmet Food, Clothing & Apparel, Sports & Outdoors","Adidas, Samsung",3,2
+10236,69,Other,San Antonio,4,1364.41,1,"Electronics, Beauty & Skincare",IKEA,6,1
+10237,29,Other,San Diego,3,1631.47,8,"Home Goods, Books & Media","Zara, Gucci, Adidas",4,3
+10238,56,Male,Philadelphia,9,338.79,15,"Sports & Outdoors, Books & Media, Gourmet Food","Gucci, Nike, Zara",1,4
+10239,19,Male,Philadelphia,5,549.73,9,"Gourmet Food, Books & Media","Bose, IKEA",6,2
+10240,20,Male,Phoenix,6,403.29,4,"Home Goods, Gourmet Food, Sports & Outdoors",L'Oréal,4,1
+10241,66,Male,San Diego,6,585.93,39,"Jewelry & Watches, Gourmet Food",Adidas,3,3
+10242,54,Female,New York,8,1596.35,50,"Jewelry & Watches, Clothing & Apparel, Home Goods",Sony,3,2
+10243,66,Female,San Jose,6,559.16,8,Gourmet Food,Gucci,7,7
+10244,73,Female,Houston,9,875.21,44,Electronics,"Nike, Adidas",5,3
+10245,34,Male,Houston,6,390.96,14,"Beauty & Skincare, Books & Media, Home Goods","Nike, Bose",2,3
+10246,66,Male,Chicago,5,2401.2,21,"Books & Media, Jewelry & Watches, Sports & Outdoors","Bose, Sony, Adidas",1,6
+10247,19,Female,Chicago,7,582.02,58,Beauty & Skincare,"Adidas, IKEA, Zara",4,5
+10248,19,Male,Houston,6,3044.13,41,Books & Media,"Sony, Zara, Samsung",6,5
+10249,45,Male,New York,2,945.14,49,"Books & Media, Beauty & Skincare, Sports & Outdoors",IKEA,6,5
+10250,71,Female,Los Angeles,8,292.07,4,"Gourmet Food, Home Goods, Beauty & Skincare","Samsung, L'Oréal, Apple",1,7
+10251,40,Female,Dallas,5,785.06,2,"Home Goods, Beauty & Skincare, Clothing & Apparel","Sony, IKEA",15,1
+10252,54,Male,San Jose,5,384.66,67,"Gourmet Food, Beauty & Skincare, Clothing & Apparel",Apple,17,4
+10253,49,Male,Los Angeles,5,1442.4,14,"Beauty & Skincare, Clothing & Apparel, Electronics","Gucci, Sony, L'Oréal",1,0
+10254,50,Male,Phoenix,7,730.33,10,"Home Goods, Beauty & Skincare","Sony, Zara",2,4
+10255,18,Male,Dallas,7,1025.72,38,Books & Media,"Gucci, Bose",1,6
+10256,36,Male,Dallas,5,669.88,54,"Home Goods, Electronics, Gourmet Food","L'Oréal, Gucci, Nike",2,2
+10257,19,Male,San Diego,6,577.27,59,"Beauty & Skincare, Jewelry & Watches, Sports & Outdoors","Sony, Gucci",3,2
+10258,70,Male,New York,5,413.1,11,Home Goods,"L'Oréal, IKEA, Apple",1,3
+10259,61,Male,New York,5,1757.35,57,Clothing & Apparel,"Samsung, Sony",1,2
+10260,43,Female,Dallas,9,783.73,1,Beauty & Skincare,Gucci,1,7
+10261,49,Female,San Diego,5,699.83,1,Jewelry & Watches,Apple,3,2
+10262,23,Female,San Jose,8,768.17,29,Sports & Outdoors,"Gucci, Samsung",7,4
+10263,49,Male,Dallas,8,522.96,1,"Books & Media, Jewelry & Watches","Adidas, Nike, Samsung",1,3
+10264,72,Male,San Antonio,10,701.7,11,Gourmet Food,Zara,3,2
+10265,21,Male,Chicago,7,1061.13,33,"Books & Media, Electronics, Sports & Outdoors","L'Oréal, Apple",7,3
+10266,72,Female,Chicago,6,393.58,12,Beauty & Skincare,Adidas,3,2
+10267,28,Female,Los Angeles,11,441.91,5,"Gourmet Food, Beauty & Skincare, Home Goods","Zara, Gucci",2,1
+10268,73,Female,Phoenix,9,2711.38,9,"Gourmet Food, Sports & Outdoors","L'Oréal, Nike, Zara",4,3
+10269,34,Female,Chicago,6,673.43,18,Home Goods,Zara,2,3
+10270,55,Male,Philadelphia,7,579.02,19,Jewelry & Watches,"Samsung, IKEA, Apple",7,0
+10271,41,Female,Los Angeles,2,307.2,45,"Sports & Outdoors, Gourmet Food","IKEA, Nike, L'Oréal",5,2
+10272,22,Female,Chicago,11,1777.79,41,"Gourmet Food, Clothing & Apparel","Gucci, Bose, Nike",6,3
+10273,69,Male,Phoenix,11,386.78,18,"Jewelry & Watches, Books & Media, Electronics","L'Oréal, Sony, Apple",11,1
+10274,51,Female,New York,4,889.23,56,"Books & Media, Home Goods","Adidas, L'Oréal",5,2
+10275,23,Male,New York,7,229.53,3,"Electronics, Clothing & Apparel, Sports & Outdoors",IKEA,6,5
+10276,39,Male,San Jose,9,1732.16,8,"Books & Media, Clothing & Apparel, Home Goods",Adidas,2,4
+10277,28,Female,Dallas,2,2307.85,52,"Home Goods, Sports & Outdoors","Zara, Apple",3,2
+10278,65,Male,San Antonio,8,1326.37,14,"Clothing & Apparel, Gourmet Food",Sony,1,3
+10279,33,Male,New York,7,263.75,119,"Beauty & Skincare, Books & Media","Bose, Apple",1,2
+10280,50,Male,San Diego,6,1760.93,18,"Clothing & Apparel, Electronics","Sony, Samsung",6,2
+10281,26,Female,Chicago,6,464.38,47,"Sports & Outdoors, Home Goods",Gucci,6,6
+10282,23,Male,San Diego,9,352.77,15,Clothing & Apparel,"Zara, Bose, L'Oréal",2,2
+10283,33,Male,Phoenix,3,662.36,16,"Electronics, Beauty & Skincare","Apple, Sony, L'Oréal",3,3
+10284,46,Female,New York,6,651.9,14,"Jewelry & Watches, Books & Media, Beauty & Skincare",Nike,3,2
+10285,20,Female,San Antonio,6,600.97,38,"Gourmet Food, Clothing & Apparel","Bose, Gucci",4,3
+10286,37,Other,Phoenix,4,2493.7,23,"Home Goods, Clothing & Apparel",Nike,2,4
+10287,53,Male,Philadelphia,6,4500.96,86,Home Goods,"Sony, IKEA",6,1
+10288,36,Female,Philadelphia,5,301.05,8,"Sports & Outdoors, Books & Media, Jewelry & Watches","Samsung, Apple",8,2
+10289,43,Male,San Diego,4,518.8,3,Books & Media,Gucci,2,6
+10290,20,Female,Dallas,9,1009.07,14,Sports & Outdoors,"Bose, Nike",7,1
+10291,36,Female,Los Angeles,5,659.59,28,Electronics,Sony,3,1
+10292,37,Female,Dallas,5,1239.05,59,Jewelry & Watches,"Samsung, Apple, Gucci",2,3
+10293,49,Female,San Jose,3,1873.14,12,"Beauty & Skincare, Home Goods","Gucci, Nike",3,3
+10294,24,Female,Dallas,6,1639.39,31,"Gourmet Food, Sports & Outdoors, Books & Media","IKEA, Samsung, L'Oréal",2,1
+10295,69,Female,San Jose,7,1466.12,12,Jewelry & Watches,"Apple, Adidas",1,2
+10296,58,Male,San Jose,5,3394.33,28,"Books & Media, Beauty & Skincare","Zara, Nike, Adidas",3,2
+10297,50,Female,San Antonio,5,252.5,64,"Home Goods, Jewelry & Watches, Beauty & Skincare",Samsung,1,3
+10298,57,Female,New York,2,2941.49,7,"Beauty & Skincare, Jewelry & Watches, Electronics",Apple,11,4
+10299,56,Male,San Antonio,4,646.9,15,Books & Media,"Nike, Bose",5,2
+10300,35,Female,San Jose,6,1686.96,150,"Jewelry & Watches, Home Goods, Sports & Outdoors",L'Oréal,2,4
+10301,57,Male,Phoenix,5,394.99,60,"Home Goods, Jewelry & Watches, Gourmet Food","Nike, Zara",10,4
+10302,18,Female,Philadelphia,6,435.19,24,"Clothing & Apparel, Jewelry & Watches","Samsung, Nike, Zara",1,4
+10303,28,Female,San Jose,8,1528.86,21,Clothing & Apparel,Apple,2,5
+10304,45,Female,San Antonio,9,192.4,10,"Home Goods, Clothing & Apparel","IKEA, Nike",2,4
+10305,74,Female,Phoenix,5,1986.52,21,"Beauty & Skincare, Electronics",Samsung,3,5
+10306,42,Female,San Antonio,7,2466.5,56,"Home Goods, Sports & Outdoors","Nike, Gucci, Bose",4,2
+10307,67,Female,Dallas,3,1037.75,34,"Gourmet Food, Home Goods, Jewelry & Watches","Zara, Bose",10,2
+10308,40,Female,Chicago,8,1008.27,10,Books & Media,"Gucci, Samsung",5,5
+10309,48,Female,San Diego,4,462.05,6,Jewelry & Watches,Gucci,3,1
+10310,47,Female,Los Angeles,10,1544.02,9,"Electronics, Clothing & Apparel",Adidas,3,1
+10311,59,Female,San Antonio,4,1188.82,5,"Beauty & Skincare, Jewelry & Watches, Gourmet Food",Zara,1,1
+10312,52,Female,Los Angeles,6,430.69,3,"Sports & Outdoors, Electronics","Adidas, Gucci",1,3
+10313,24,Male,Houston,4,658.13,16,Sports & Outdoors,IKEA,4,2
+10314,33,Male,San Antonio,8,792.44,3,"Clothing & Apparel, Jewelry & Watches",Sony,4,6
+10315,43,Female,Chicago,4,657.43,5,"Clothing & Apparel, Home Goods","Zara, Adidas, IKEA",5,1
+10316,65,Male,Los Angeles,7,302.55,23,Clothing & Apparel,"L'Oréal, Gucci",5,1
+10317,74,Male,San Jose,7,1574.67,5,Jewelry & Watches,"Bose, Zara",1,2
+10318,69,Female,San Antonio,4,740.83,1,Gourmet Food,"Apple, Bose, Adidas",2,3
+10319,66,Male,New York,3,911.3,11,Gourmet Food,"Nike, L'Oréal",3,3
+10320,19,Male,San Diego,5,566.78,7,"Gourmet Food, Jewelry & Watches","L'Oréal, Samsung, Gucci",11,3
+10321,18,Female,Chicago,9,1316.59,21,"Jewelry & Watches, Electronics","Apple, Samsung",3,0
+10322,65,Female,Los Angeles,6,1055.26,3,"Gourmet Food, Beauty & Skincare, Jewelry & Watches","IKEA, Zara",2,3
+10323,29,Male,Chicago,11,2375.14,41,Books & Media,IKEA,2,3
+10324,22,Male,Phoenix,5,1322.22,71,Electronics,"Gucci, Nike, Apple",9,1
+10325,54,Female,San Diego,2,765.43,40,"Books & Media, Gourmet Food","Gucci, Adidas, Nike",5,1
+10326,49,Female,San Jose,5,498.11,22,"Home Goods, Jewelry & Watches",Adidas,5,2
+10327,72,Female,San Antonio,8,1799.65,59,"Jewelry & Watches, Gourmet Food, Sports & Outdoors",Apple,5,4
+10328,26,Male,San Antonio,8,718.04,35,"Beauty & Skincare, Jewelry & Watches, Books & Media","IKEA, Gucci",7,4
+10329,58,Male,San Antonio,7,784.63,1,"Jewelry & Watches, Home Goods, Sports & Outdoors","Sony, Gucci",1,5
+10330,52,Female,San Diego,8,784.47,15,"Electronics, Gourmet Food",Sony,2,4
+10331,36,Female,New York,8,652.82,57,"Home Goods, Electronics, Sports & Outdoors",Adidas,1,3
+10332,65,Male,Houston,3,795.49,12,"Home Goods, Electronics, Jewelry & Watches","Adidas, Samsung, Gucci",7,0
+10333,33,Female,Philadelphia,3,4202.99,1,"Clothing & Apparel, Electronics, Books & Media","Sony, IKEA",2,3
+10334,20,Female,Dallas,10,389.29,41,"Electronics, Jewelry & Watches","Adidas, Bose",4,4
+10335,37,Male,Los Angeles,2,469.18,48,Books & Media,"Bose, Zara, IKEA",6,3
+10336,41,Male,New York,6,2724.51,5,"Jewelry & Watches, Clothing & Apparel",Nike,4,3
+10337,71,Male,San Jose,8,666.97,23,Clothing & Apparel,"Adidas, Zara, Bose",1,1
+10338,73,Male,Los Angeles,4,627.72,6,"Home Goods, Beauty & Skincare","IKEA, Adidas",11,3
+10339,50,Female,San Antonio,9,2060.03,38,"Beauty & Skincare, Books & Media, Home Goods","Apple, IKEA, Gucci",1,0
+10340,41,Female,Chicago,7,289,9,"Books & Media, Sports & Outdoors",Sony,2,4
+10341,69,Male,San Jose,8,1736.71,11,"Beauty & Skincare, Electronics, Jewelry & Watches","Samsung, Apple",1,0
+10342,28,Female,Los Angeles,6,933.63,55,Jewelry & Watches,"IKEA, Bose",2,4
+10343,66,Female,San Antonio,4,1305.61,19,"Gourmet Food, Home Goods","Nike, Apple",1,4
+10344,25,Female,Los Angeles,10,1286.15,33,"Electronics, Sports & Outdoors","Apple, Bose, Adidas",7,2
+10345,53,Female,Chicago,6,544.68,15,"Sports & Outdoors, Gourmet Food","Gucci, Zara, Apple",2,3
+10346,55,Female,San Antonio,9,2087.1,10,Beauty & Skincare,"Samsung, L'Oréal, Zara",3,3
+10347,57,Female,Houston,13,579.68,29,Electronics,"Nike, Samsung",1,8
+10348,37,Female,New York,6,1248.46,5,Sports & Outdoors,"Samsung, Adidas, Sony",14,5
+10349,52,Female,Phoenix,7,2423.01,14,"Gourmet Food, Beauty & Skincare","Apple, Sony",2,3
+10350,65,Male,Dallas,3,2712.72,7,"Electronics, Books & Media, Gourmet Food","Nike, Sony, Bose",5,2
+10351,42,Male,San Diego,3,726.97,35,"Electronics, Jewelry & Watches, Home Goods",Gucci,6,3
+10352,52,Male,Dallas,9,1303.87,86,"Sports & Outdoors, Jewelry & Watches","IKEA, Nike",4,3
+10353,42,Male,San Jose,4,675.19,162,Gourmet Food,"IKEA, Adidas, L'Oréal",5,1
+10354,46,Male,Dallas,6,6671.65,17,Sports & Outdoors,IKEA,1,4
+10355,35,Female,San Antonio,4,1680.23,8,Clothing & Apparel,IKEA,2,8
+10356,63,Male,Houston,6,962.79,17,Books & Media,Samsung,2,1
+10357,35,Male,Phoenix,4,1155.9,56,Books & Media,"Apple, Sony, Zara",3,5
+10358,19,Male,New York,5,1246.72,6,Gourmet Food,"IKEA, Adidas, Zara",1,5
+10359,71,Female,New York,6,1276.63,91,"Sports & Outdoors, Electronics","Gucci, Bose, Apple",2,4
+10360,52,Female,Chicago,7,742.92,12,Electronics,"Sony, Bose",1,10
+10361,33,Female,San Diego,7,656.63,127,"Home Goods, Sports & Outdoors, Jewelry & Watches",IKEA,7,5
+10362,58,Female,Los Angeles,9,797.2,54,"Beauty & Skincare, Sports & Outdoors","Bose, L'Oréal",1,3
+10363,53,Male,Houston,8,361.71,49,"Clothing & Apparel, Gourmet Food, Electronics","Adidas, Bose",2,3
+10364,50,Male,Los Angeles,7,1599.11,11,"Sports & Outdoors, Books & Media, Jewelry & Watches",Gucci,1,2
+10365,21,Female,Phoenix,9,474.01,1,Books & Media,Sony,1,4
+10366,50,Other,Dallas,10,385.53,14,Sports & Outdoors,"Bose, IKEA, L'Oréal",7,2
+10367,31,Male,New York,7,889.89,10,"Jewelry & Watches, Clothing & Apparel",Nike,1,2
+10368,38,Female,Phoenix,8,811.18,1,"Electronics, Gourmet Food","Zara, Adidas",4,2
+10369,65,Female,Dallas,9,1099.15,21,"Clothing & Apparel, Jewelry & Watches, Home Goods","Adidas, L'Oréal, Sony",1,3
+10370,37,Female,New York,3,571.36,15,"Jewelry & Watches, Gourmet Food, Home Goods",Nike,1,5
+10371,73,Female,Dallas,4,657.57,30,"Sports & Outdoors, Home Goods","Sony, Adidas, Nike",11,5
+10372,25,Female,San Diego,3,1566,29,Clothing & Apparel,"Gucci, Adidas, L'Oréal",4,4
+10373,24,Female,Houston,5,1491.53,3,"Electronics, Clothing & Apparel, Home Goods","Gucci, L'Oréal, Nike",1,6
+10374,20,Female,San Jose,8,1442.6,113,"Books & Media, Home Goods, Jewelry & Watches","Bose, Apple",6,4
+10375,34,Female,Phoenix,8,924.97,6,"Home Goods, Sports & Outdoors, Gourmet Food",Gucci,3,1
+10376,50,Male,Phoenix,10,1030.42,17,Clothing & Apparel,"Bose, Sony, Samsung",1,6
+10377,65,Female,Philadelphia,7,1082.4,20,"Sports & Outdoors, Beauty & Skincare",Nike,1,3
+10378,29,Male,San Antonio,3,532.59,50,Beauty & Skincare,Gucci,3,1
+10379,68,Female,San Diego,5,2927.26,3,Jewelry & Watches,L'Oréal,5,3
+10380,39,Other,San Diego,10,2611.96,16,"Home Goods, Electronics, Beauty & Skincare","Samsung, Gucci, IKEA",2,2
+10381,72,Female,Los Angeles,4,1699.32,29,"Jewelry & Watches, Books & Media, Home Goods",Bose,2,2
+10382,39,Female,Dallas,4,640.27,7,"Jewelry & Watches, Electronics, Sports & Outdoors","Apple, Adidas",4,4
+10383,63,Male,San Antonio,10,1385.62,29,"Jewelry & Watches, Sports & Outdoors",Sony,3,3
+10384,47,Male,Houston,4,1969,77,Clothing & Apparel,L'Oréal,4,2
+10385,55,Male,Houston,8,338.33,179,"Electronics, Clothing & Apparel","Gucci, Samsung, IKEA",16,2
+10386,55,Female,San Diego,8,3491.88,1,Beauty & Skincare,"Bose, Zara",2,2
+10387,62,Female,Houston,4,223.87,8,"Books & Media, Home Goods","Bose, Apple, IKEA",3,1
+10388,68,Male,Philadelphia,5,1581.72,11,"Books & Media, Jewelry & Watches, Gourmet Food","Apple, Bose",2,3
+10389,71,Male,Phoenix,2,2879.04,15,"Sports & Outdoors, Books & Media","Apple, L'Oréal",2,3
+10390,25,Male,Chicago,4,822.32,8,Jewelry & Watches,Apple,3,2
+10391,44,Male,San Jose,6,798.08,6,"Gourmet Food, Jewelry & Watches, Electronics","IKEA, Sony",8,0
+10392,44,Female,Los Angeles,6,1535.66,92,"Home Goods, Clothing & Apparel, Beauty & Skincare","L'Oréal, Bose",11,2
+10393,51,Male,Dallas,7,3960.36,75,Beauty & Skincare,L'Oréal,1,3
+10394,38,Female,San Jose,2,718.91,1,"Electronics, Books & Media","Samsung, Adidas",11,4
+10395,47,Female,Dallas,7,481.94,12,Electronics,Nike,4,4
+10396,50,Female,New York,7,641.34,15,"Clothing & Apparel, Gourmet Food","Apple, Bose, IKEA",9,1
+10397,45,Male,San Jose,2,259.97,8,Home Goods,"Samsung, Sony",1,1
+10398,64,Female,Chicago,4,1846.03,29,Jewelry & Watches,"Adidas, IKEA",1,2
+10399,50,Female,San Diego,7,596.64,30,Beauty & Skincare,"Gucci, Samsung",4,8
+10400,22,Male,Philadelphia,9,761.98,57,"Sports & Outdoors, Clothing & Apparel","Zara, L'Oréal, Adidas",3,2
+10401,65,Female,Phoenix,9,1863.63,40,"Jewelry & Watches, Gourmet Food","Samsung, IKEA, L'Oréal",1,8
+10402,36,Male,Phoenix,9,665.84,23,Clothing & Apparel,Zara,9,0
+10403,21,Female,Philadelphia,9,1652.19,31,Books & Media,"L'Oréal, Samsung, Adidas",2,4
+10404,52,Male,San Antonio,3,392.33,9,"Gourmet Food, Beauty & Skincare, Home Goods","Nike, IKEA",2,3
+10405,66,Male,New York,7,1938.29,26,Clothing & Apparel,Nike,6,4
+10406,34,Female,Dallas,5,1183.36,20,Clothing & Apparel,Bose,2,6
+10407,61,Female,Chicago,9,838.59,4,Electronics,"Adidas, Nike",1,5
+10408,45,Female,Houston,12,999.54,8,Jewelry & Watches,"IKEA, Apple",4,1
+10409,47,Female,San Jose,3,321.56,10,"Electronics, Home Goods, Sports & Outdoors","Sony, Zara, Nike",2,5
+10410,46,Other,New York,6,981.41,77,Electronics,"Apple, L'Oréal",1,4
+10411,63,Female,San Jose,11,803.72,7,"Jewelry & Watches, Books & Media",Zara,9,4
+10412,70,Male,Chicago,5,328.67,10,"Sports & Outdoors, Home Goods",Apple,1,0
+10413,23,Female,Los Angeles,9,526.22,13,Sports & Outdoors,"Samsung, IKEA",1,2
+10414,52,Male,Los Angeles,5,811.75,32,"Home Goods, Gourmet Food",Apple,1,5
+10415,58,Male,New York,4,553.77,3,Clothing & Apparel,"Gucci, Sony",2,6
+10416,54,Male,San Diego,7,130.7,92,"Home Goods, Sports & Outdoors","Zara, Bose",3,1
+10417,41,Female,Chicago,8,2129.61,60,Sports & Outdoors,L'Oréal,2,6
+10418,46,Female,Chicago,5,803.45,25,"Electronics, Books & Media",Bose,5,3
+10419,66,Female,Philadelphia,8,145.97,33,Clothing & Apparel,Bose,6,2
+10420,63,Male,San Diego,5,4966.92,1,"Books & Media, Sports & Outdoors, Electronics","Nike, Bose, Zara",2,6
+10421,70,Male,Dallas,4,2430.13,12,"Beauty & Skincare, Jewelry & Watches, Books & Media","L'Oréal, Sony, Nike",1,1
+10422,48,Male,Dallas,5,680.89,47,"Beauty & Skincare, Electronics","Apple, Adidas",4,4
+10423,52,Female,Houston,7,458.79,2,Gourmet Food,"IKEA, Adidas",4,2
+10424,50,Male,Phoenix,7,1242.82,9,Beauty & Skincare,Zara,10,5
+10425,69,Male,Los Angeles,9,1058.33,26,"Gourmet Food, Home Goods, Beauty & Skincare","Zara, IKEA, Adidas",3,1
+10426,38,Female,Dallas,8,1388.89,8,"Clothing & Apparel, Jewelry & Watches, Gourmet Food","Bose, Adidas",20,1
+10427,49,Female,San Diego,3,459.84,81,"Beauty & Skincare, Jewelry & Watches",Sony,5,3
+10428,40,Male,Chicago,7,2166.36,4,"Beauty & Skincare, Books & Media, Gourmet Food","IKEA, Samsung",1,1
+10429,50,Male,Dallas,5,616.35,47,"Beauty & Skincare, Sports & Outdoors",Adidas,5,4
+10430,20,Male,Chicago,3,1551.84,21,"Books & Media, Electronics, Home Goods","Zara, Bose, Nike",3,3
+10431,35,Female,Dallas,10,475.82,41,"Sports & Outdoors, Books & Media, Beauty & Skincare","L'Oréal, Gucci",4,2
+10432,42,Male,Los Angeles,6,7488.32,11,Clothing & Apparel,"Apple, Adidas",2,2
+10433,59,Female,San Jose,4,1570.27,21,"Sports & Outdoors, Beauty & Skincare, Jewelry & Watches","Apple, Samsung",6,5
+10434,48,Female,Dallas,3,9045.03,58,"Gourmet Food, Electronics, Books & Media","Nike, Sony",8,3
+10435,71,Female,San Diego,7,1745.27,18,"Gourmet Food, Books & Media",L'Oréal,1,4
+10436,20,Male,Dallas,4,574.45,13,"Books & Media, Jewelry & Watches, Home Goods",Samsung,4,2
+10437,57,Male,Phoenix,7,1747.76,23,"Jewelry & Watches, Gourmet Food, Sports & Outdoors","L'Oréal, Adidas",1,6
+10438,63,Male,Los Angeles,6,1850.2,37,"Beauty & Skincare, Gourmet Food, Books & Media","Nike, Sony, Apple",4,2
+10439,41,Female,San Diego,3,1213.48,17,Electronics,"Nike, Samsung, L'Oréal",2,2
+10440,67,Male,Philadelphia,8,1490.55,83,Jewelry & Watches,"Sony, Apple",3,2
+10441,49,Female,San Diego,7,1655.68,10,"Beauty & Skincare, Electronics, Gourmet Food","Samsung, IKEA",2,4
+10442,64,Male,Phoenix,6,406.52,19,Gourmet Food,"Nike, Samsung, IKEA",3,2
+10443,39,Female,San Jose,9,384.02,42,"Books & Media, Electronics",IKEA,8,2
+10444,40,Female,Los Angeles,4,476.85,35,"Books & Media, Gourmet Food, Jewelry & Watches","Bose, L'Oréal",4,2
+10445,19,Female,Philadelphia,6,996.87,59,"Electronics, Books & Media","L'Oréal, Zara, Nike",3,5
+10446,44,Female,Phoenix,6,752.99,172,"Electronics, Books & Media","Adidas, Bose",3,6
+10447,59,Male,Phoenix,5,412.46,16,"Beauty & Skincare, Home Goods","IKEA, Adidas",3,3
+10448,19,Male,New York,4,1673.77,3,"Jewelry & Watches, Beauty & Skincare",Samsung,3,3
+10449,43,Female,Los Angeles,4,1128.92,1,"Electronics, Books & Media","Bose, Adidas",1,0
+10450,34,Male,San Diego,6,1030.43,38,"Jewelry & Watches, Electronics","L'Oréal, Samsung",3,1
+10451,57,Female,Chicago,6,732.3,62,"Jewelry & Watches, Home Goods, Clothing & Apparel","Gucci, Zara, Adidas",6,1
+10452,50,Male,San Jose,7,665.14,7,Gourmet Food,Bose,1,4
+10453,26,Male,Chicago,7,459.22,5,"Books & Media, Home Goods",L'Oréal,6,4
+10454,60,Male,San Diego,7,1899.94,1,"Home Goods, Sports & Outdoors",Sony,3,2
+10455,71,Female,San Diego,7,512.75,51,Clothing & Apparel,Samsung,7,4
+10456,65,Male,Los Angeles,8,1064.33,11,"Sports & Outdoors, Books & Media",Gucci,2,6
+10457,56,Male,San Diego,3,3402.25,15,Beauty & Skincare,"Adidas, Samsung",5,4
+10458,46,Female,New York,6,690.06,20,"Books & Media, Gourmet Food","IKEA, Adidas",1,2
+10459,59,Female,Philadelphia,4,1941.37,54,"Electronics, Sports & Outdoors, Beauty & Skincare","Adidas, Gucci",4,1
+10460,72,Male,San Diego,2,1418.78,31,"Home Goods, Beauty & Skincare",L'Oréal,6,3
+10461,43,Male,Chicago,9,1154.89,28,"Home Goods, Jewelry & Watches","Apple, Bose",6,2
+10462,52,Male,San Diego,1,1270.12,5,Electronics,"IKEA, Sony, Nike",4,6
+10463,67,Male,New York,5,834.36,21,"Jewelry & Watches, Home Goods","Samsung, Nike",4,0
+10464,42,Male,Dallas,4,925.57,37,"Home Goods, Clothing & Apparel, Jewelry & Watches",L'Oréal,1,0
+10465,41,Female,Dallas,4,580.62,108,Books & Media,"IKEA, Samsung",3,2
+10466,30,Female,Phoenix,3,930.53,6,Gourmet Food,Nike,3,4
+10467,24,Female,San Jose,4,563.63,1,"Electronics, Sports & Outdoors","Nike, L'Oréal",2,5
+10468,74,Male,Houston,9,2012.45,2,"Jewelry & Watches, Books & Media, Gourmet Food",Samsung,4,2
+10469,53,Female,Philadelphia,7,231.13,14,Jewelry & Watches,"L'Oréal, Apple",3,6
+10470,62,Male,San Antonio,5,1322.7,51,"Electronics, Books & Media, Sports & Outdoors","Apple, Adidas, Samsung",3,1
+10471,37,Male,Phoenix,7,1178.33,1,"Sports & Outdoors, Beauty & Skincare","Gucci, Zara, IKEA",5,4
+10472,18,Male,San Jose,6,1095.97,18,"Gourmet Food, Books & Media, Beauty & Skincare","Nike, Zara, Apple",6,12
+10473,25,Female,Dallas,2,2043.02,11,"Jewelry & Watches, Home Goods","Adidas, Zara, L'Oréal",2,3
+10474,63,Male,Chicago,4,716,1,"Beauty & Skincare, Sports & Outdoors, Electronics",Sony,1,3
+10475,33,Female,San Antonio,4,1104.26,17,Sports & Outdoors,"IKEA, Samsung",7,5
+10476,31,Male,San Jose,4,228,8,Gourmet Food,Bose,4,5
+10477,29,Female,San Jose,10,645.7,13,Sports & Outdoors,"IKEA, Apple",2,2
+10478,68,Female,Phoenix,3,1785,36,Jewelry & Watches,"Samsung, Sony",2,4
+10479,40,Male,San Antonio,4,308.36,22,Sports & Outdoors,"Nike, IKEA, Gucci",2,3
+10480,32,Female,Los Angeles,6,1022.88,3,"Jewelry & Watches, Beauty & Skincare, Home Goods","L'Oréal, Sony, Nike",14,2
+10481,45,Female,Houston,5,523.52,97,"Books & Media, Beauty & Skincare",Apple,5,3
+10482,51,Male,Los Angeles,4,823.69,30,Home Goods,"Apple, Sony, Adidas",1,4
+10483,19,Male,San Antonio,4,549.19,43,"Beauty & Skincare, Clothing & Apparel","Gucci, Bose",1,4
+10484,49,Male,Los Angeles,1,331.9,2,"Electronics, Home Goods, Sports & Outdoors","Nike, Apple, Zara",2,1
+10485,40,Male,New York,3,1225.85,1,Gourmet Food,Adidas,5,6
+10486,39,Male,Dallas,8,865.15,1,Gourmet Food,"Adidas, Bose",4,2
+10487,68,Female,New York,5,1469.52,6,Clothing & Apparel,"Sony, Nike, L'Oréal",8,2
+10488,42,Female,San Diego,4,1699.58,16,"Sports & Outdoors, Gourmet Food, Clothing & Apparel","Bose, Sony",6,3
+10489,39,Female,Los Angeles,12,2398.96,82,Electronics,"L'Oréal, Samsung",6,2
+10490,39,Male,San Diego,3,1001.62,18,"Beauty & Skincare, Gourmet Food, Clothing & Apparel","IKEA, Adidas",5,4
+10491,66,Male,Chicago,7,2483.64,10,"Books & Media, Home Goods","Adidas, Samsung",1,3
+10492,69,Female,Philadelphia,12,412.39,24,"Electronics, Gourmet Food, Books & Media","Apple, Samsung, Nike",2,3
+10493,59,Female,Chicago,4,1862.65,3,Jewelry & Watches,IKEA,1,4
+10494,23,Male,San Antonio,6,1299.97,28,Electronics,"Adidas, Sony",1,1
+10495,32,Female,San Jose,7,1084.7,25,"Gourmet Food, Electronics",L'Oréal,1,3
+10496,71,Male,Dallas,5,1284.82,47,"Sports & Outdoors, Clothing & Apparel, Home Goods","Bose, IKEA, L'Oréal",6,0
+10497,60,Male,Los Angeles,4,417.38,129,"Sports & Outdoors, Jewelry & Watches, Beauty & Skincare",Bose,4,1
+10498,54,Male,Phoenix,11,345.57,8,"Sports & Outdoors, Books & Media, Jewelry & Watches","Zara, Gucci, Adidas",2,1
+10499,50,Female,Philadelphia,3,3534.93,21,Jewelry & Watches,"Zara, Nike",5,3
+10500,25,Male,Houston,5,786.51,71,"Books & Media, Jewelry & Watches",L'Oréal,1,2
